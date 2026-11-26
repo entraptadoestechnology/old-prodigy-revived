@@ -51,7 +51,7 @@ Wanna play [Classdigy](https://prodigy.entraptadoeztech.nya.je/oldprodigy/1-30-0
 
 ### So What Are You Waiting For?
 
-Check it out [here](class.html)
+Check it out [here](class.html) or [on GitHub Pages](https://entraptadoestechnology.github.io/old-prodigy-revived/class.html)
 
 <img width="391" height="200" alt="IMG_1864" src="https://github.com/user-attachments/assets/af7eb94d-1eb8-4023-879c-a3de026904fc" />
 
