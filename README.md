@@ -39,9 +39,7 @@ if you want to try it out check [this](https://prodigy.entraptadoeztech.nya.je/o
 ### CDE School Version 
 Wanna play [Classdigy](https://prodigy.entraptadoeztech.nya.je/oldprodigy/1-30-0/) in class but Prodigy is **blocked**?
 
-**Well we have a solution for you!**
-
-* [CDE School Ver](class.html)
+#### Well we have a solution for you, it is called *CDE School Version*
 
 
 ### What it is/does:
@@ -49,6 +47,12 @@ Wanna play [Classdigy](https://prodigy.entraptadoeztech.nya.je/oldprodigy/1-30-0
 - Uses **jsdelivr** to deliver assets/content
 - Doesn’t touch Prodigy’s servers
 - A fun way to play old prodigy even in restricted environments!
+- Seasonal Festival Updates!
+
+### So What Are You Waiting For?
+
+Check it out [here](class.html)
+
 <img width="391" height="200" alt="IMG_1864" src="https://github.com/user-attachments/assets/af7eb94d-1eb8-4023-879c-a3de026904fc" />
 
 ## ❗️Mini Disclaimer❗️
