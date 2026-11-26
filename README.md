@@ -50,5 +50,6 @@ Wanna play [Classdigy](https://prodigy.entraptadoeztech.nya.je/oldprodigy/1-30-0
 - Doesn’t touch Prodigy’s servers
 - A fun way to play old prodigy even in restricted environments!
 <img width="391" height="200" alt="IMG_1864" src="https://github.com/user-attachments/assets/af7eb94d-1eb8-4023-879c-a3de026904fc" />
+
 ## ❗️Mini Disclaimer❗️
 We do **not** own the assets but we are making fan versions of old prodigy!
